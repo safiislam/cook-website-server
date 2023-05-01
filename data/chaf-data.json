@@ -5,7 +5,8 @@
         "yearsOfExperience": 30,
         "numberOfRecipes": 1000,
         "likes": 50000,
-        "user_id": 1
+        "user_id": 1,
+        "discription": "Gordon Ramsay is a famous British chef known for his fiery personality and impressive culinary skills. With over 30 years of experience and more than 1000 recipes to his name, he has become a household name in the culinary world."
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -13,7 +14,8 @@
         "yearsOfExperience": 50,
         "numberOfRecipes": 500,
         "likes": 25000,
-        "user_id": 2
+        "user_id": 2,
+        "discription": "Julia Child was a pioneering American chef who revolutionized the way people cooked and ate. With 50 years of experience and 500 recipes, she remains an inspiration to chefs around the world."
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -21,14 +23,17 @@
         "yearsOfExperience": 25,
         "numberOfRecipes": 700,
         "likes": 35000,
-        "user_id": 3
+        "user_id": 3,
+        "discription": "Jamie Oliver is a popular British chef who is passionate about healthy and delicious food. With 25 years of experience and 700 unique recipes, he has made cooking accessible and fun for people of all skill levels."
     },
     {
+        "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Nigella Lawson",
         "yearsOfExperience": 20,
         "numberOfRecipes": 400,
         "likes": 20000,
-        "user_id": 4
+        "user_id": 4,
+        "discription": "Nigella Lawson is a British celebrity chef who specializes in comfort food. With 20 years of experience and 400 delicious recipes, she has become a household name and a source of inspiration for home cooks around the world."
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -36,7 +41,8 @@
         "yearsOfExperience": 25,
         "numberOfRecipes": 600,
         "likes": 30000,
-        "user_id": 5
+        "user_id": 5,
+        "discription":"Bobby Flay is a renowned American chef known for his bold flavors and innovative recipes. With 25 years of experience and 600 mouthwatering recipes, he has become a culinary icon and a role model for aspiring chefs."
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -44,6 +50,7 @@
         "yearsOfExperience": 35,
         "numberOfRecipes": 300,
         "likes": 15000,
-        "user_id": 6
+        "user_id": 6,
+        "discription":"Ina Garten is an American chef and author known for her simple and elegant approach to cooking. With 35 years of experience and 300 easy-to-follow recipes, she has become a beloved figure in the culinary world and a trusted source of inspiration for home cooks."
     }
 ]
