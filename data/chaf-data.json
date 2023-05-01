@@ -1,0 +1,49 @@
+[
+    {
+        "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Gordon Ramsay",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 1000,
+        "likes": 50000,
+        "user_id": 1
+    },
+    {
+        "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Julia Child",
+        "yearsOfExperience": 50,
+        "numberOfRecipes": 500,
+        "likes": 25000,
+        "user_id": 2
+    },
+    {
+        "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Jamie Oliver",
+        "yearsOfExperience": 25,
+        "numberOfRecipes": 700,
+        "likes": 35000,
+        "user_id": 3
+    },
+    {
+        "name": "Nigella Lawson",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 400,
+        "likes": 20000,
+        "user_id": 4
+    },
+    {
+        "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Bobby Flay",
+        "yearsOfExperience": 25,
+        "numberOfRecipes": 600,
+        "likes": 30000,
+        "user_id": 5
+    },
+    {
+        "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Ina Garten",
+        "yearsOfExperience": 35,
+        "numberOfRecipes": 300,
+        "likes": 15000,
+        "user_id": 6
+    }
+]
