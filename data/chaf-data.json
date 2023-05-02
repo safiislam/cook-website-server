@@ -16,7 +16,7 @@
         "likes": 25000,
         "user_id": 2,
         "discription": "Julia Child was a pioneering American chef who revolutionized the way people cooked and ate. With 50 years of experience and 500 recipes, she remains an inspiration to chefs around the world.",
-        "recipe":[
+        "recipe": [
             {
                 "recipe_name": "Alu Vorta",
                 "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
@@ -39,7 +39,7 @@
         "likes": 35000,
         "user_id": 3,
         "discription": "Jamie Oliver is a popular British chef who is passionate about healthy and delicious food. With 25 years of experience and 700 unique recipes, he has made cooking accessible and fun for people of all skill levels.",
-        "recipe":[
+        "recipe": [
             {
                 "recipe_name": "Alu Vorta",
                 "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
@@ -61,7 +61,21 @@
         "numberOfRecipes": 400,
         "likes": 20000,
         "user_id": 4,
-        "discription": "Nigella Lawson is a British celebrity chef who specializes in comfort food. With 20 years of experience and 400 delicious recipes, she has become a household name and a source of inspiration for home cooks around the world."
+        "discription": "Nigella Lawson is a British celebrity chef who specializes in comfort food. With 20 years of experience and 400 delicious recipes, she has become a household name and a source of inspiration for home cooks around the world.",
+        "recipe": [
+            {
+                "recipe_name": "Alu Vorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
+            },
+            {
+                "recipe_name": "Begun Bhorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Baingan_Ka_Bhurta.JPG/800px-Baingan_Ka_Bhurta.JPG"
+            },
+            {
+                "recipe_name": "Lal Shak bhaja",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lal_shak_bhaja_DSCN2795.jpg/800px-Lal_shak_bhaja_DSCN2795.jpg"
+            }
+        ]
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -70,7 +84,21 @@
         "numberOfRecipes": 600,
         "likes": 30000,
         "user_id": 5,
-        "discription":"Bobby Flay is a renowned American chef known for his bold flavors and innovative recipes. With 25 years of experience and 600 mouthwatering recipes, he has become a culinary icon and a role model for aspiring chefs."
+        "discription": "Bobby Flay is a renowned American chef known for his bold flavors and innovative recipes. With 25 years of experience and 600 mouthwatering recipes, he has become a culinary icon and a role model for aspiring chefs.",
+        "recipe": [
+            {
+                "recipe_name": "Alu Vorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
+            },
+            {
+                "recipe_name": "Begun Bhorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Baingan_Ka_Bhurta.JPG/800px-Baingan_Ka_Bhurta.JPG"
+            },
+            {
+                "recipe_name": "Lal Shak bhaja",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lal_shak_bhaja_DSCN2795.jpg/800px-Lal_shak_bhaja_DSCN2795.jpg"
+            }
+        ]
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -79,6 +107,20 @@
         "numberOfRecipes": 300,
         "likes": 15000,
         "user_id": 6,
-        "discription":"Ina Garten is an American chef and author known for her simple and elegant approach to cooking. With 35 years of experience and 300 easy-to-follow recipes, she has become a beloved figure in the culinary world and a trusted source of inspiration for home cooks."
+        "discription": "Ina Garten is an American chef and author known for her simple and elegant approach to cooking. With 35 years of experience and 300 easy-to-follow recipes, she has become a beloved figure in the culinary world and a trusted source of inspiration for home cooks.",
+        "recipe": [
+            {
+                "recipe_name": "Alu Vorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
+            },
+            {
+                "recipe_name": "Begun Bhorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Baingan_Ka_Bhurta.JPG/800px-Baingan_Ka_Bhurta.JPG"
+            },
+            {
+                "recipe_name": "Lal Shak bhaja",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lal_shak_bhaja_DSCN2795.jpg/800px-Lal_shak_bhaja_DSCN2795.jpg"
+            }
+        ]
     }
 ]
