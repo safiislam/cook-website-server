@@ -6,7 +6,21 @@
         "numberOfRecipes": 1000,
         "likes": 50000,
         "user_id": 1,
-        "discription": "Gordon Ramsay is a famous British chef known for his fiery personality and impressive culinary skills. With over 30 years of experience and more than 1000 recipes to his name, he has become a household name in the culinary world."
+        "discription": "Gordon Ramsay is a famous British chef known for his fiery personality and impressive culinary skills. With over 30 years of experience and more than 1000 recipes to his name, he has become a household name in the culinary world.",
+        "recipe": [
+            {
+                "recipe_name": "Alu Vorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
+            },
+            {
+                "recipe_name": "Begun Bhorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Baingan_Ka_Bhurta.JPG/800px-Baingan_Ka_Bhurta.JPG"
+            },
+            {
+                "recipe_name": "Lal Shak bhaja",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lal_shak_bhaja_DSCN2795.jpg/800px-Lal_shak_bhaja_DSCN2795.jpg"
+            }
+        ]
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
