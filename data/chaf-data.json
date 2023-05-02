@@ -15,7 +15,21 @@
         "numberOfRecipes": 500,
         "likes": 25000,
         "user_id": 2,
-        "discription": "Julia Child was a pioneering American chef who revolutionized the way people cooked and ate. With 50 years of experience and 500 recipes, she remains an inspiration to chefs around the world."
+        "discription": "Julia Child was a pioneering American chef who revolutionized the way people cooked and ate. With 50 years of experience and 500 recipes, she remains an inspiration to chefs around the world.",
+        "recipe":[
+            {
+                "recipe_name": "Alu Vorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
+            },
+            {
+                "recipe_name": "Begun Bhorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Baingan_Ka_Bhurta.JPG/800px-Baingan_Ka_Bhurta.JPG"
+            },
+            {
+                "recipe_name": "Lal Shak bhaja",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lal_shak_bhaja_DSCN2795.jpg/800px-Lal_shak_bhaja_DSCN2795.jpg"
+            }
+        ]
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -24,7 +38,21 @@
         "numberOfRecipes": 700,
         "likes": 35000,
         "user_id": 3,
-        "discription": "Jamie Oliver is a popular British chef who is passionate about healthy and delicious food. With 25 years of experience and 700 unique recipes, he has made cooking accessible and fun for people of all skill levels."
+        "discription": "Jamie Oliver is a popular British chef who is passionate about healthy and delicious food. With 25 years of experience and 700 unique recipes, he has made cooking accessible and fun for people of all skill levels.",
+        "recipe":[
+            {
+                "recipe_name": "Alu Vorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Meshed_potato_%28alu_bharta%29.jpg/800px-Meshed_potato_%28alu_bharta%29.jpg"
+            },
+            {
+                "recipe_name": "Begun Bhorta",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Baingan_Ka_Bhurta.JPG/800px-Baingan_Ka_Bhurta.JPG"
+            },
+            {
+                "recipe_name": "Lal Shak bhaja",
+                "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lal_shak_bhaja_DSCN2795.jpg/800px-Lal_shak_bhaja_DSCN2795.jpg"
+            }
+        ]
     },
     {
         "img": "https://images.pexels.com/photos/14938938/pexels-photo-14938938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
